@@ -1,6 +1,6 @@
 # 🎂 aniversario
 
-Página de convite digital para o aniversário de **Zadoque Pires de Deus**,
+Página de convite digital para o aniversário de **Zadoque Carneiro**,
 hospedada em [zadoque.github.io/aniversario](https://zadoque.github.io/aniversario).
 
 ## ✨ Sobre
